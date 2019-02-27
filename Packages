@@ -1,0 +1,158 @@
+Package: node-cylon-firmata
+Version: 0.24.0-24
+Depends: libc, node, node-cylon, node-firmata
+License: Apache-2.0
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15202
+Filename: node-cylon-firmata_0.24.0-24_arm_cortex-a7_neon-vfpv4.ipk
+Size: 16001
+SHA256sum: d4dbdddf27a5d17cefdfc03c76dfad5a12f4c100e8b2bcfbf90d9fee2d4b93ca
+Description:  Cylon module for Arduino and other microcontrollers using the Firmata protocol
+
+Package: node-cylon-gpio
+Version: 0.30.1-12
+Depends: libc, node, node-cylon
+License: Apache-2.0
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 132225
+Filename: node-cylon-gpio_0.30.1-12_arm_cortex-a7_neon-vfpv4.ipk
+Size: 133169
+SHA256sum: a1cf4f2752d26fc9f071be233b79d5f54176990653d247ad5ada4857d6c0e464
+Description:  Cylon module for General Purpose Input/Output (GPIO)
+
+Package: node-cylon
+Version: 1.3.0-24
+Depends: libc, node
+License: Apache-2.0
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 24522
+Filename: node-cylon_1.3.0-24_arm_cortex-a7_neon-vfpv4.ipk
+Size: 25346
+SHA256sum: e35ab494eed3ae5c55a581585580ca09b7c4729fc6c89228531d724ea63af2aa
+Description:  JavaScript framework for robotics, drones, and the Internet of Things (IoT) using Node.js
+
+Package: node-express
+Version: 4.16.4-1
+Depends: libc, node
+License: MIT
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 497717
+Filename: node-express_4.16.4-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 498442
+SHA256sum: 7d4ea57db3d8c625991a9e8624b4e80e7b8e52b866ca0332d75ad25eaa204d0d
+Description:  Fast, unopinionated, minimalist web framework
+
+Package: node-firmata
+Version: 2.0.0-1
+Depends: libc, node, node-serialport
+License: MIT
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 30444
+Filename: node-firmata_2.0.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 31269
+SHA256sum: cdb0fcc02076257d00ca831ec577e4bb7250d723f8448d282488ef32f1faf154
+Description:  Firmata protocol implementation for programmatic interaction with Arduino and Arduino compatible development boards
+
+Package: node-modbus
+Version: 0.0.16-8
+Depends: libc, node
+License: BSD
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 38418
+Filename: node-modbus_0.0.16-8_arm_cortex-a7_neon-vfpv4.ipk
+Size: 39170
+SHA256sum: 764d4f4fb15a546d284a351204db39425fb4e37762b3d306df371b0f3b90ebeb
+Description:  This is binding to native library libmodbus (https://libmodbus.org/)
+
+Package: node-mqtt
+Version: 2.18.8-1
+Depends: libc, node
+License: MIT
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 651522
+Filename: node-mqtt_2.18.8-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 648478
+SHA256sum: 27d8e86e7ac73b46bee8fa43f3181c187c5c6ecc0d7fe02771da82ad35ff2a8d
+Description:  MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser
+
+Package: node-node-red-contrib-modbus
+Version: 4.1.1-1
+Depends: libc, node
+License: BSD-3-Clause
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5262238
+Filename: node-node-red-contrib-modbus_4.1.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5247197
+SHA256sum: baff9f5ae32bd387f70f974eae67441d2a0b9dc9cda7b0fc7fd46df5ef557e48
+Description:  The all in one Modbus TCP and Serial contribution package for Node-RED. Based on modbus-serial with TCP, C701, Telnet, Serial, RTU buffered, and ASCII.
+
+Package: node-node-red
+Version: 0.19.5-1
+Depends: libc, node
+License: Apache-2.0
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 9032474
+Filename: node-node-red_0.19.5-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 8981648
+SHA256sum: 7a72de379063a96f5de6e9acfc3ad8b53aac44d90a9d064764eb877fe26bddf3
+Description:  A visual tool for wiring the Internet of Things
+
+Package: node-npm
+Version: v8.15.0-1
+Depends: libc, node
+License: MIT
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4416648
+Filename: node-npm_v8.15.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4409828
+SHA256sum: 23881406e0c573c7d8526fd2c04bdb079e32362cb40e9218f850a254003e1139
+Description:  NPM is the package manager for Node.js
+
+Package: node-pm2
+Version: 3.2.2-1
+Depends: libc, node
+License: AGPL-3.0
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 5769104
+Filename: node-pm2_3.2.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 5746387
+SHA256sum: 742fe5580281df92ac33714e435f57dfda7f3188a0208fe342e3b8879d02869f
+Description:  PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks
+
+Package: node-serialport
+Version: 7.1.4-1
+Depends: libc, node
+License: MIT
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 489087
+Filename: node-serialport_7.1.4-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 489513
+SHA256sum: 546587a3adcfe2aa126c8f7144191e282d9f91629bd04a91dcbea7d2290408fa
+Description:  Node.js package to access serial ports. Welcome your robotic javascript overlords. Better yet, program them!
+
+Package: node
+Version: v8.15.0-1
+Depends: libc, libstdcpp, zlib, libopenssl
+License: MIT
+Section: lang
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 4483618
+Filename: node_v8.15.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 4468528
+SHA256sum: 9cf307747971781420f0eaffb1b1499c62165953bda0bc34591beb4255cc7167
+Description:  Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses
+ an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js'
+ package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
